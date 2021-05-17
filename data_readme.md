@@ -16,7 +16,7 @@
 3. PRAW
     1. The Python Reddit API Wrapper
     2. Link: https://praw.readthedocs.io/en/latest/ 
-4.PSAW
+4. PSAW
     1. A minimalist wrapper for searching public reddit comments/submissions  
     2. Link: https://pypi.org/project/psaw/
 3. Flair

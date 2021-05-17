@@ -19,13 +19,13 @@
 4. PSAW
     1. A minimalist wrapper for searching public reddit comments/submissions  
     2. Link: https://pypi.org/project/psaw/
-3. Flair
+5. Flair
     1. NLP Library
     2. Link: https://github.com/flairNLP/flair
     3. Akbik, Alan, et al. “Contextual String Embeddings for Sequence Labeling.” 2018, 27th International Conference on Computational Linguistics, 2018, pp. 1638–1649. 
-4.  yfinance
+6.  yfinance
     1.  Finance market data downloader
     2.  Link: https://pypi.org/project/yfinance/
-5.  finta
+7.  finta
     1.  Common financial technical indicators implemented in Pandas.
     2.  Link: https://pypi.org/project/finta/
